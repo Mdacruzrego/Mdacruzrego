@@ -1,4 +1,4 @@
-## Hello, there ✌
+## Hello, there 👍
 
 My name is Mateus and I am a full-stack web developer from Caetité, Bahia. I like programing and my goal is to create awesome websites and applications that solve real world problems while looking beautiful on every device (and to teach others how to do the same).
 
