@@ -3,7 +3,7 @@
 My name is Mateus and I am a full-stack web developer from Caetité, Bahia. I like programing and my goal is to create awesome websites and applications that solve real world problems while looking beautiful on every device (and to teach others how to do the same).
 
 <a href="#">
-<img src="https://media1.tenor.com/images/a7bd6b94430c1e66148d580209e377c5/tenor.gif?itemid=5043108" title="hello" width="335" height="243" align="right" alt="Hello, there!">
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzBmYTA0d3dtM3dtc2dqbGRzcjNhdnF6b2w2bjJkNXV1Y2xlMGUxdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f31DK1KpGsyMU/giphy.gif" title="hello" width="400" height="243" align="right" alt="Hello, there!">
 </a>
 
 
