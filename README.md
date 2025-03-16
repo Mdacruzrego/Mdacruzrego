@@ -1,21 +1,38 @@
-### Opa! Eu sou Mateus
+## Hello, there ✌
 
-- 🔭 Atualmente eu estou estudando para me tornar um desenvolvedor full-stack ...
-- 🌱 Estudando Typescript ...
-- 📫 Contate-me no email: mdacruzrego@gmail.com ...
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
-  
-  ##
- 
-<div> 
-  <a href="https://www.instagram.com/mateus.crruz/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 
-  <a href = "mailto:mdacruzrego@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/mateus-da-cruz-rêgo-559674221/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div>
+My name is Mateus and I am a full-stack web developer from Caetité, Bahia. I like programing and my goal is to create awesome websites and applications that solve real world problems while looking beautiful on every device (and to teach others how to do the same).
+
+<a href="#">
+<img src="https://media1.tenor.com/images/a7bd6b94430c1e66148d580209e377c5/tenor.gif?itemid=5043108" title="hello" width="335" height="243" align="right" alt="Hello, there!">
+</a>
+
+
+### Here's some of the stuff I like to use
+
+In the front-end
+
+![HTML5](https://img.shields.io/badge/-HTML5-232323?style=flat&labelColor=E34F26&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/-CSS3-232323?style=flat&labelColor=1572B6&logo=css3&logoColor=ffffff)
+![Sass](https://img.shields.io/badge/-Sass-232323?style=flat&labelColor=CC6699&logo=sass&logoColor=ffffff)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-232323?style=flat&labelColor=7952B3&logo=bootstrap&logoColor=ffffff)
+![TailwindCSS](https://img.shields.io/badge/-Tailwind-232323?style=flat&labelColor=06B6D4&logo=tailwindcss&logoColor=ffffff)
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-232323?style=flat&labelColor=000000&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/-TypeScript-232323?style=flat&labelColor=000000&logo=typescript&logoColor=3178C6)
+
+In the back-end:
+
+![Node](https://img.shields.io/badge/-Node-232323?style=flat&labelColor=000000&logo=nodedotjs&logoColor=339933)
+
+<!-- And in general:
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&labelColor=F05032&logo=git&logoColor=ffffff)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&labelColor=FCC624&logo=linux&logoColor=000000)
+![Adobe XD](https://img.shields.io/badge/-AdobeXD-ff75f7?style=flat-square&labelColor=ff75f7&logo=adobexd&logoColor=000000)
+![GIMP](https://img.shields.io/badge/-GIMP-5C5543?style=flat-square&labelColor=5C5543&logo=gimp&logoColor=ffffff)
+![Inkscape](https://img.shields.io/badge/-Inkscape-000000?style=flat-square&labelColor=000000&logo=inkscape&logoColor=ffffff)
+ -->
+
+<hr>
+
+<!-- ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=isaacpontes&show_icons=true&theme=onedark&include_all_commits=true&count_private=true&line_height=24)
+![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=isaacpontes&theme=onedark&layout=compact&langs_count=8&card_width=260) -->
