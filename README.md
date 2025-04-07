@@ -16,7 +16,7 @@ In the front-end
 ![Sass](https://img.shields.io/badge/-Sass-232323?style=flat&labelColor=CC6699&logo=sass&logoColor=ffffff)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-232323?style=flat&labelColor=7952B3&logo=bootstrap&logoColor=ffffff)
 ![TailwindCSS](https://img.shields.io/badge/-Tailwind-232323?style=flat&labelColor=06B6D4&logo=tailwindcss&logoColor=ffffff)
-![Static Badge](https://img.shields.io/badge/npm-gray?style=flat&logo=npm&logoColor=%23CB3837&logoSize=auto&labelColor=white)
+![Static Badge](https://img.shields.io/badge/npm-%23212121?style=flat&logo=npm&logoColor=%23CB3837&logoSize=auto&labelColor=white)
 
 
 
